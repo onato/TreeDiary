@@ -1,0 +1,4 @@
+github "mikaoj/BSGridCollectionViewLayout" "1.1.1"
+github "MailOnline/ImageViewer" "2.1"
+github "VivienCormier/UIImageViewModeScaleAspect" "a36d62d3d8b72cb5fd2a038913533846dc8e4ae3"
+github "mikaoj/BSImagePicker" "2.3.1"
